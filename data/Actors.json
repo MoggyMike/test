@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Passive1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Steve","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[3,0,2,3,0],"faceIndex":1,"faceName":"Passive1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alex","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[4,0,2,3,0],"faceIndex":2,"faceName":"Passive1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chicken","nickname":"","note":"<Default Counter: 9>","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,0],"faceIndex":3,"faceName":"Passive1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pig","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"Actor2","classId":5,"equips":[4,0,2,3,0],"faceIndex":4,"faceName":"Passive1","traits":[],"initialLevel":5,"maxLevel":99,"name":"Sheep","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":1,"characterName":"Actor3","classId":6,"equips":[4,0,2,3,0],"faceIndex":5,"faceName":"Passive1","traits":[],"initialLevel":5,"maxLevel":99,"name":"Cow","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":3,"characterName":"Actor1","classId":7,"equips":[4,0,2,3,0],"faceIndex":0,"faceName":"Hostile1","traits":[],"initialLevel":7,"maxLevel":99,"name":"Zombie","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":4,"characterName":"Actor1","classId":8,"equips":[3,0,2,3,0],"faceIndex":1,"faceName":"Hostile1","traits":[],"initialLevel":7,"maxLevel":99,"name":"Skeleton","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":5,"characterName":"Actor2","classId":9,"equips":[4,0,2,3,0],"faceIndex":2,"faceName":"Hostile1","traits":[],"initialLevel":7,"maxLevel":99,"name":"Spider","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

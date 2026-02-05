@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":481},
+{"id":2,"expanded":false,"name":"Fortress","order":2,"parentId":1,"scrollX":1563.2727272727273,"scrollY":821.4545454545455},
+{"id":3,"expanded":true,"name":"Blocky Village","order":3,"parentId":1,"scrollX":1228,"scrollY":637},
+{"id":4,"expanded":false,"name":"Normal Town","order":4,"parentId":3,"scrollX":1786.909090909091,"scrollY":1049.4545454545455},
+{"id":5,"expanded":false,"name":"Player's House","order":5,"parentId":3,"scrollX":1786.909090909091,"scrollY":1049.4545454545455},
+{"id":6,"expanded":false,"name":"Shop","order":6,"parentId":3,"scrollX":1786.909090909091,"scrollY":1049.4545454545455},
+{"id":7,"expanded":true,"name":"Forest","order":8,"parentId":1,"scrollX":811,"scrollY":530},
+{"id":8,"expanded":true,"name":"Lost Forest","order":9,"parentId":7,"scrollX":2069,"scrollY":473},
+{"id":9,"expanded":true,"name":"Forest Outskirts","order":10,"parentId":8,"scrollX":811,"scrollY":863},
+{"id":10,"expanded":true,"name":"Stone Cave","order":11,"parentId":9,"scrollX":811,"scrollY":882},
+{"id":11,"expanded":true,"name":"Cave Passageway","order":12,"parentId":10,"scrollX":811,"scrollY":815},
+{"id":12,"expanded":true,"name":"Cave River","order":13,"parentId":11,"scrollX":2117,"scrollY":473},
+{"id":13,"expanded":false,"name":"Cave Warp","order":14,"parentId":12,"scrollX":819,"scrollY":481},
+{"id":14,"expanded":false,"name":"Blacksmith Shop","order":7,"parentId":3,"scrollX":811,"scrollY":637},
+{"id":15,"expanded":false,"name":"Cave Outskirts","order":15,"parentId":12,"scrollX":811,"scrollY":671},
+{"id":16,"expanded":false,"name":"Hole 1","order":18,"parentId":10,"scrollX":819,"scrollY":481},
+{"id":17,"expanded":false,"name":"Hole 2","order":19,"parentId":10,"scrollX":832,"scrollY":640},
+{"id":18,"expanded":false,"name":"Secret Hole 1","order":20,"parentId":10,"scrollX":819,"scrollY":481},
+{"id":19,"expanded":true,"name":"Secret Tunnel","order":16,"parentId":12,"scrollX":819,"scrollY":481},
+{"id":20,"expanded":false,"name":"Forgotten Corner","order":17,"parentId":19,"scrollX":819,"scrollY":481}
+]
